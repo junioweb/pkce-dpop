@@ -1,0 +1,1 @@
+Using [java-oauth-server](https://github.com/authlete/java-oauth-server) as Authorization Server.
